@@ -1,0 +1,15 @@
+D:\обучение GeekBrains\c#\Семинар 1\Sem1HoWo\Seminar1HomeWork\Zadacha_06\obj\Debug\net6.0\Zadacha_06.csproj.AssemblyReference.cache
+D:\обучение GeekBrains\c#\Семинар 1\Sem1HoWo\Seminar1HomeWork\Zadacha_06\obj\Debug\net6.0\Zadacha_06.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение GeekBrains\c#\Семинар 1\Sem1HoWo\Seminar1HomeWork\Zadacha_06\obj\Debug\net6.0\Zadacha_06.AssemblyInfoInputs.cache
+D:\обучение GeekBrains\c#\Семинар 1\Sem1HoWo\Seminar1HomeWork\Zadacha_06\obj\Debug\net6.0\Zadacha_06.AssemblyInfo.cs
+D:\обучение GeekBrains\c#\Семинар 1\Sem1HoWo\Seminar1HomeWork\Zadacha_06\obj\Debug\net6.0\Zadacha_06.csproj.CoreCompileInputs.cache
+D:\обучение GeekBrains\c#\Семинар 1\Sem1HoWo\Seminar1HomeWork\Zadacha_06\bin\Debug\net6.0\Zadacha_06.exe
+D:\обучение GeekBrains\c#\Семинар 1\Sem1HoWo\Seminar1HomeWork\Zadacha_06\bin\Debug\net6.0\Zadacha_06.deps.json
+D:\обучение GeekBrains\c#\Семинар 1\Sem1HoWo\Seminar1HomeWork\Zadacha_06\bin\Debug\net6.0\Zadacha_06.runtimeconfig.json
+D:\обучение GeekBrains\c#\Семинар 1\Sem1HoWo\Seminar1HomeWork\Zadacha_06\bin\Debug\net6.0\Zadacha_06.dll
+D:\обучение GeekBrains\c#\Семинар 1\Sem1HoWo\Seminar1HomeWork\Zadacha_06\bin\Debug\net6.0\Zadacha_06.pdb
+D:\обучение GeekBrains\c#\Семинар 1\Sem1HoWo\Seminar1HomeWork\Zadacha_06\obj\Debug\net6.0\Zadacha_06.dll
+D:\обучение GeekBrains\c#\Семинар 1\Sem1HoWo\Seminar1HomeWork\Zadacha_06\obj\Debug\net6.0\refint\Zadacha_06.dll
+D:\обучение GeekBrains\c#\Семинар 1\Sem1HoWo\Seminar1HomeWork\Zadacha_06\obj\Debug\net6.0\Zadacha_06.pdb
+D:\обучение GeekBrains\c#\Семинар 1\Sem1HoWo\Seminar1HomeWork\Zadacha_06\obj\Debug\net6.0\Zadacha_06.genruntimeconfig.cache
+D:\обучение GeekBrains\c#\Семинар 1\Sem1HoWo\Seminar1HomeWork\Zadacha_06\obj\Debug\net6.0\ref\Zadacha_06.dll
